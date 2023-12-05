@@ -1,4 +1,5 @@
 ﻿# python-oop
+ [DOCS](https://docs.google.com/document/d/1-VLEITIf2c82nzraZ6UXPtXDi0HtlIosKMxoz3A3mKc/edit#heading=h.5t3i6qd0go1s)
 
 #### Class: Class is a machine to generate instance/object.
 
